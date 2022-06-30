@@ -1,0 +1,21 @@
+{
+  "name": "fancy_button",
+  "version": "1.0.0",
+  "description": "this is my first custom button pacakges",
+  "main": " src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hariharan",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "styled-components": "^5.3.5"
+  }
+}
