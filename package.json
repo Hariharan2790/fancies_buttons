@@ -1,5 +1,5 @@
 {
-  "name": "fancy_button",
+  "name": "fancies_buttons",
   "version": "1.0.0",
   "description": "this is my first custom button pacakges",
   "main": "dist/index.js",
