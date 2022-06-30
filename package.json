@@ -2,9 +2,15 @@
   "name": "fancy_button",
   "version": "1.0.0",
   "description": "this is my first custom button pacakges",
-  "main": " src/index.js",
+  "main":"dist/index.js",
+  "module":"dist/index.js",
+  "source": " src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hariharan2790/fancybutton.git"
   },
   "author": "hariharan",
   "license": "ISC",
